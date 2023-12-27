@@ -1,4 +1,4 @@
-Hello and welcome to my repository!
+Hello and welcome to my repository! My name is Vishesh Jain and I am a recent graduate from Arizona State University
 
 Here you will find projects I have worked on in the past, projects I am currently working on and links to my other websites.
 
